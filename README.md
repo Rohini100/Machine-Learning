@@ -1,3 +1,3 @@
 # Machine-Learning
 
-This contains Various Data sets on which different ML algorithms are performed.
+This repository contains some of my project work where I have applied few ML algorithms on the dataset, to arrive at valuable information from the dataset.
